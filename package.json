@@ -1,6 +1,16 @@
 {
   "name": "speedsweeper",
+  "description": "A minesweeper clone that runs on javascript",
+  "author": "Danny Eck <eck.danny@gmail.com>",
+  "keywords": [
+    "minesweeper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
   "version": "0.0.0",
+  "private": true,
   "dependencies": {},
   "devDependencies": {
     "grunt": "^0.4.1",
