@@ -1,0 +1,89 @@
+.container {
+  border-width: 5px;
+  border-style: outset;
+  background-color: rgb(226, 226, 226);
+  padding: 1em;
+
+  > div {
+    border: inset;
+    padding: .5em;
+  }
+
+  .header {
+
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+
+  }
+}
+
+.smiley {
+  border: outset;
+  border-radius: 5px;
+
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.counter {
+  padding: 0;
+  font-size: 0;
+  font-family: monospace;
+
+  .digit {
+    font-size: 24pt;
+    margin: 0;
+    background-color: black;
+    color: red;
+  }
+}
+
+.grid.active .cell:hover {
+  background-color: red;
+}
+
+.grid {
+
+  border-collapse: collapse;
+
+  padding: 0 !important;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  .row {
+
+    margin: 0;
+    width: 100%;
+
+    .cell {
+      display: table-cell;
+      border: 1px solid black;
+      border-top: none;
+      height: 100%;
+      // width: 30%;
+      height: 1.5em;
+      width: 1.5em;
+      margin: 0;
+    }
+
+    .cell:hover:active {
+      background-color: pink;
+    }
+  }
+
+  .row:first-child .cell {
+    border-top: 1px solid black;
+  }
+
+}
