@@ -1,26 +1,39 @@
+/**
+ * Variables
+ */
+
+$border-thin: 2px;
+$border-thick: 2px;
+$primary: rgb(226, 226, 226);
+$accent-light: blue;
+$accent-dark: yellow;
+
 .container {
-  border-width: 5px;
+  border-width: $border-thick;
   border-style: outset;
-  background-color: rgb(226, 226, 226);
+  background-color: $primary;
   padding: 1em;
 
-  > div {
+  & > div {
     border: inset;
     padding: .5em;
   }
 
   .header {
-
     margin-bottom: 1em;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-between;
-
   }
 }
 
+.container.active {
+  background-color: pink;
+}
+
 .smiley {
+  content: 'asdfasdf';
   border: outset;
   border-radius: 5px;
 
@@ -35,6 +48,8 @@
   padding: 0;
   font-size: 0;
   font-family: monospace;
+  border-style: inset;
+  border-width: 2px;
 
   .digit {
     font-size: 24pt;
@@ -44,13 +59,16 @@
   }
 }
 
-.grid.active .cell:hover {
+.active .cell {
   background-color: red;
+}
+.active .cell.over {
+  background-color: green !important;
 }
 
 .grid {
 
-  border-collapse: collapse;
+  cursor: default;
 
   padding: 0 !important;
 
@@ -62,28 +80,25 @@
   user-select: none;
 
   .row {
-
     margin: 0;
     width: 100%;
-
-    .cell {
-      display: table-cell;
-      border: 1px solid black;
-      border-top: none;
-      height: 100%;
-      // width: 30%;
-      height: 1.5em;
-      width: 1.5em;
-      margin: 0;
-    }
-
-    .cell:hover:active {
-      background-color: pink;
-    }
   }
 
-  .row:first-child .cell {
-    border-top: 1px solid black;
+  .cell {
+    display: table-cell;
+    border-top: none;
+    height: 100%;
+    height: 1.5em;
+    width: 1.5em;
+    margin: 0;
+    vertical-align: middle;
+    text-align: center;
+
+    &.unknown {
+      border-color: white;
+      border-style: outset;
+      border-width: 3px;
+    }
   }
 
 }
