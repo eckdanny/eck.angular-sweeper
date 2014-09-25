@@ -1,0 +1,31 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+            "folder_exclude_patterns": [".git", ".tmp", ".sass-cache", "node_modules", "bower_components"]
+        }
+    ],
+  "SublimeLinter":
+  {
+      "linters":
+      {
+          "jshint": {
+              "@disable": false,
+              "args": [],
+              "excludes": [],
+              "ignore": ""
+          }
+      }
+  },
+    "settings":
+    {
+        "rulers":
+        [
+            80
+        ],
+        "tab_size": 2,
+        "translate_tabs_to_spaces": true,
+        "trim_trailing_white_space_on_save": true
+    }
+}

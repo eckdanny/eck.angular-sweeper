@@ -8,11 +8,15 @@ $primary: rgb(226, 226, 226);
 $accent-light: blue;
 $accent-dark: yellow;
 
-.container {
+.game {
   border-width: $border-thick;
   border-style: outset;
   background-color: $primary;
   padding: 1em;
+  box-sizing: border-box;
+
+  max-width: 400px;
+  margin: 0 auto;
 
   & > div {
     border: inset;
@@ -28,7 +32,7 @@ $accent-dark: yellow;
   }
 }
 
-.container.active {
+.game.active {
   background-color: pink;
 }
 

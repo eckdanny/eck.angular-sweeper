@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title></title>
     <meta name="description" content="">
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <!-- build:css(.) styles/vendor.css -->
     <!-- bower:css -->
@@ -19,7 +19,7 @@
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <div class="container">
+    <div class="game">
 
       <div class="header">
 
@@ -174,7 +174,7 @@
     <script src="bower_components/angular/angular.js"></script>
     <script src="bower_components/json3/lib/json3.js"></script>
     <script src="bower_components/angular-route/angular-route.js"></script>
-    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/lodash/dist/lodash.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
 
@@ -185,25 +185,29 @@
         <!-- endbuild -->
 
     <script type="text/javascript">
-    $(function () {
+    (function () {
 
-      $container = $('.container');
+      $container = document.querySelectorAll('.game'); // $('.game');
 
-      $('html').on('mouseup', function () {
-        $container.removeClass('active');
+      $container.addEventListener('click', function () {
+        alert('hi');
       });
 
-      $('.grid')
-      .on('mouseover', '.cell', function () {
-        this.classList.add('over');
-      })
-      .on('mouseout', '.cell', function () {
-        console.log('mouseout');
-        this.classList.remove('over');
-      })
-      .on('mousedown', '.cell', function () {
-        $container.addClass('active')
-      });
+      // $('html').addEventListener('mouseup', function () {
+      //   $container.removeClass('active');
+      // });
+
+      // $('.grid')
+      // .addEventListener('mouseover', '.cell', function () {
+      //   this.classList.add('over');
+      // })
+      // .on('mouseout', '.cell', function () {
+      //   console.log('mouseout');
+      //   this.classList.remove('over');
+      // })
+      // .on('mousedown', '.cell', function () {
+      //   $container.addClass('active')
+      // });
 
       // $('.grid').on('mousemove', '.cell', function () {
       //   console.log('mousemove');
@@ -213,7 +217,7 @@
 
 
 
-    });
+    })();
       // function activate () {
       //   document.querySelector('.grid').classList.add('active');
       //   console.log('grid state: active');
