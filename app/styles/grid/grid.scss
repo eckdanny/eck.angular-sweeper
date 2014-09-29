@@ -4,7 +4,11 @@
 
 $border-thin: 2px;
 $border-thick: 2px;
-$primary: rgb(226, 226, 226);
+// $primary: rgb(226, 226, 226);
+$primary: rgb(185, 185, 185); // cell bg, main color on unclicked,
+$secondary: rgb(155, 155, 155); // border
+// $secondary: rgb(165, 165, 165); // border
+// $secondary: rgb(117, 117, 117); // border
 $accent-light: blue;
 $accent-dark: yellow;
 
@@ -15,8 +19,10 @@ $accent-dark: yellow;
   padding: 1em;
   box-sizing: border-box;
 
-  max-width: 400px;
-  margin: 0 auto;
+  // max-width: 400px;
+  // margin: 0 auto;
+
+  display: inline-block;
 
   & > div {
     border: inset;
@@ -46,6 +52,10 @@ $accent-dark: yellow;
   -ms-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
+
+  &.caution {
+    color: red;
+  }
 }
 
 .counter {
@@ -83,6 +93,10 @@ $accent-dark: yellow;
   -ms-user-select: none;
   user-select: none;
 
+  // &.caution {
+  //   border: 5px solid blue;
+  // }
+
   .row {
     margin: 0;
     width: 100%;
@@ -97,12 +111,47 @@ $accent-dark: yellow;
     margin: 0;
     vertical-align: middle;
     text-align: center;
+    box-sizing: border-box;
+
+    border-color: $secondary;
+    border-style: solid;
+    border-width: 1px;
+    border-right: 0;
+    border-bottom: 0;
+
+    // &.safe {
+    //   border-color: $secondary;
+    //   border-style: solid;
+    //   border-width: 1px;
+    //   border-left: 0;
+    //   border-top: 0;
+    // }
 
     &.unknown {
       border-color: white;
       border-style: outset;
       border-width: 3px;
+      color: transparent;
+      background-image: none !important;
     }
+
+    &.num {
+      background-size: contain;
+      text-indent: -999999px;
+      background-repeat: no-repeat;
+      background-origin: content-box;
+      // background-position-x: 2px;
+    }
+
+    &.num-1 { background-image: url("/images/1.svg"); }
+    &.num-2 { background-image: url("/images/2.svg"); }
+    &.num-3 { background-image: url("/images/3.svg"); }
+    &.num-4 { background-image: url("/images/4.svg"); }
+    &.num-5 { background-image: url("/images/5.svg"); }
+    &.num-6 { background-image: url("/images/6.svg"); }
+    &.num-7 { background-image: url("/images/7.svg"); }
+    &.num-8 { background-image: url("/images/8.svg"); }
+
   }
 
 }

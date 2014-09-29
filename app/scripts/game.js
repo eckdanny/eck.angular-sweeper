@@ -1,6 +1,10 @@
 /* global _ */
 'use strict';
 
+  // game.rebuild();
+  // game.stop();
+  // game.start();
+
 
   // Want to use like this...
   /*
@@ -41,7 +45,8 @@
       n = n || m;
       var board = new Array(m);
       for (var i = 0; i < m; i++) {
-        board[i] = new Int8Array(n);
+        board[i] = new Array(n);
+        // board[i] = new Int8Array(n);
       }
       return board;
     };
@@ -158,6 +163,27 @@
 
     this.state = board;
     return this;
+  };
+
+  // Board.prototype.reveal = function(x, y) {
+  //   if ()
+  // };
+
+
+  function Game () {
+
+  }
+
+  Game.prototype.start = function() {
+    // body...
+  };
+
+  Game.prototype.reset = function() {
+    // body...
+  };
+
+  Game.prototype.gameover = function() {
+    // body...
   };
 
 // })(window, window.angular, window._);
