@@ -94,11 +94,11 @@ angular.module('speedSweeperApp')
     //   x: '@',
     //   y: '@'
     // },
-    controller: function ($scope, $element, $attrs) {
+    controller: function ($scope) {
 
       $scope.isUnknown = true;
 
-      console.log($scope, $element, $attrs);
+      console.log($scope.x, $scope.$index);
 
       // $scope.handleMouseUp = function (x, y) {
       //   console.log('x,y : ' + x + ',' + y);
@@ -107,8 +107,35 @@ angular.module('speedSweeperApp')
     },
 
     link: function (scope, element) {
-      element.on('foo', function() {
+
+
+      element
+
+      .addClass('cell')
+
+      .attr('draggable', true)
+
+      .on('foo', function() {
         scope.isUnknown = false;
+        element.off('foo');
+      })
+
+      .bind('click', function (e) {
+        console.log('clicked: ' + scope.x + ',' + scope.$index)
+      })
+
+      .bind('dragover', function (e) {
+        e.preventDefault();
+      })
+
+      .bind('dragenter', function (e) {
+        console.log('dragged over cell: ' + scope.x + ',' + scope.$index);
+        e.preventDefault();
+      })
+
+      .bind('drop', function (e) {
+        console.log('Released on cell: ' + scope.x + ',' + scope.$index);
+        console.log(e);
       });
     }
 

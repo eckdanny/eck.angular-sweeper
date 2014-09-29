@@ -52,6 +52,7 @@
           ng-mouseenter="mouseenter()"
           ng-mouseleave="mouseleave()"
           ng-mouseup="mouseup($event)"
+          ondragstart="globalDragStartFn(event)"
         >
           <!-- ng-mouseup="mouseup()" -->
           <div
@@ -61,7 +62,7 @@
           >
             <div
               ng-repeat="val in row track by $index"
-              class="cell"
+
               ng-class="{
                 unknown: isUnknown,
                 'num': 0 < val,

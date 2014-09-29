@@ -16,6 +16,12 @@
       });
    */
 
+  function globalDragStartFn (event) {
+
+    // debugger;
+    // event.dataTransfer.setDragImage('<img src=\"http://0.0.0.0:9000/images/yeoman.png\" />', 0, 0);
+    event.dataTransfer.setData('text/plain', 'hello world');
+  }
 
   function Board (data) {
     _.assign(this, data);
