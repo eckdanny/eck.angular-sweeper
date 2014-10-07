@@ -19,70 +19,7 @@
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <div ng-controller="GameCtrl">
-
-      <div game class="game">
-
-        <div class="header">
-
-          <div class="counter mines">
-            <span class="digit">1</span>
-            <span class="digit">2</span>
-            <span class="digit">3</span>
-          </div>
-
-          <div
-            class="smiley"
-            ng-class="{caution: clicking && overGrid}"
-          >:)</div>
-
-          <div class="counter time">
-            <span class="digit">0</span>
-            <span class="digit">2</span>
-            <span class="digit">1</span>
-          </div>
-        </div>
-
-          <!-- draggable="false" -->
-        <div
-          class="grid"
-          board="board"
-          ng-class="{caution: clicking && overGrid}"
-          ng-mousedown="mousedown()"
-          ng-mouseenter="mouseenter()"
-          ng-mouseleave="mouseleave()"
-          ng-mouseup="mouseup($event)"
-          ondragstart="globalDragStartFn(event)"
-        >
-          <!-- ng-mouseup="mouseup()" -->
-          <div
-            class="row"
-            ng-repeat="row in board.state track by $index"
-            ng-init="x = $index"
-          >
-            <div
-              ng-repeat="val in row track by $index"
-
-              ng-class="{
-                unknown: isUnknown,
-                'num': 0 < val,
-                'num-1': 1 == val,
-                'num-2': 2 == val,
-                'num-3': 3 == val,
-                'num-4': 4 == val,
-                'num-5': 5 == val,
-                'num-6': 6 == val,
-                'num-7': 7 == val,
-                'num-8': 8 == val,
-                }"
-              cell
-              x="x"
-            >{{val}}</div>
-          </div>
-        </div>
-      </div>
-
-    </div>
+    <game></game>
 
     <!-- build:js(.) scripts/oldieshim.js -->
     <!--[if lt IE 9]>
@@ -107,6 +44,32 @@
         <script src="scripts/controllers/about.js"></script>
         <script src="scripts/controllers/game.js"></script>
         <!-- endbuild -->
+
+    <!-- templates -->
+    <script type="text/ng-template" id="ss.grid">
+    <div class="grid">
+      <div
+        class="row"
+        ng-repeat="row in ngModel track by $index"
+        ng-init="x = $index"
+      >
+        <!--
+        <div
+          class="cell"
+          ng-repeat="cell in row track by $index"
+          ng-init="y = $index"
+
+        >{{x}},{{y}}</div>
+        -->
+        <cell
+          x="x"
+          y="y"
+          ng-repeat="data in row track by $index"
+          ng-init="y = $index"
+        ></cell>
+      </div>
+    </div>
+    </script>
 
 </body>
 </html>

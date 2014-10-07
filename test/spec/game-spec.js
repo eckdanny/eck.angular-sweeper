@@ -1,7 +1,7 @@
 /* global _, Board */
 'use strict';
 
-ddescribe('Board()', function () {
+xdescribe('Board()', function () {
 
   // xit('should work', function () {
 
@@ -139,7 +139,7 @@ ddescribe('Board()', function () {
         expect(myBoard.init).toEqual(jasmine.any(Function));
       });
 
-      iit('should initialize the board object', function () {
+      it('should initialize the board object', function () {
 
         var cfg = {
           rows: 5,
@@ -166,10 +166,22 @@ ddescribe('Board()', function () {
           expect(row.length).toBe(cfg.cols);
         });
 
+        // Bombs
         expect(count).toBe(cfg.bombs);
-
-        console.log(myBoard.peek());
       });
+
+    });
+    describe('reveal()', function () {
+
+      var myBoard;
+
+      beforeEach(function() {
+        myBoard = new Board();
+      });
+
+      // it('should ', function () {
+      //   // body...
+      // });
     });
   });
 });

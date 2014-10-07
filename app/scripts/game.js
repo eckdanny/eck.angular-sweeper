@@ -16,12 +16,36 @@
       });
    */
 
-  function globalDragStartFn (event) {
+  // Utilities
+  var utils = function () {
 
-    // debugger;
-    // event.dataTransfer.setDragImage('<img src=\"http://0.0.0.0:9000/images/yeoman.png\" />', 0, 0);
-    event.dataTransfer.setData('text/plain', 'hello world');
-  }
+    /**
+     * Returns a random integer
+     * @param  {number} min Minimum value (inclusive)
+     * @param  {number} max Maximum value (inclusive)
+     * @return {number}
+     */
+    function randInt (min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    return {
+      randInt: randInt
+    };
+  };
+
+  // function Grid () {
+  //   // _.assign(this, data);
+  // }
+
+  // Grid.prototype.config = function(configObject) {
+
+  //   this.M = configObject.rows;
+  //   this.N = configObject.cols;
+
+  //   // Flattened array
+  //   this.cells = new Int8Array(this.rows * this.cols);
+  // };
 
   function Board (data) {
     _.assign(this, data);
@@ -62,7 +86,7 @@
       return Math.floor(Math.random() * (max - min + 1)) + min;
     };
 
-    var getNeighbors = function (i, j, board) {
+    var getNeighbors = function getNeighborsFn (i, j, board) {
 
       var neighbors = [];
 
@@ -168,28 +192,12 @@
     );
 
     this.state = board;
+    this.revealed = {};
     return this;
   };
 
-  // Board.prototype.reveal = function(x, y) {
-  //   if ()
-  // };
-
-
-  function Game () {
-
-  }
-
-  Game.prototype.start = function() {
-    // body...
-  };
-
-  Game.prototype.reset = function() {
-    // body...
-  };
-
-  Game.prototype.gameover = function() {
-    // body...
+  Board.prototype.reveal = function (x, y) {
+    this.revealed['a_' + x + '_' + y] = true;
   };
 
 // })(window, window.angular, window._);

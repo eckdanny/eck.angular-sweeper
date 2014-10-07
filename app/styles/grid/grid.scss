@@ -2,15 +2,26 @@
  * Variables
  */
 
-$border-thin: 2px;
-$border-thick: 2px;
-// $primary: rgb(226, 226, 226);
+$border-thickness: 2px;
+$border-thick: 1.5 * $border-thickness; // 2px;
+
 $primary: rgb(185, 185, 185); // cell bg, main color on unclicked,
 $secondary: rgb(155, 155, 155); // border
-// $secondary: rgb(165, 165, 165); // border
-// $secondary: rgb(117, 117, 117); // border
-$accent-light: blue;
-$accent-dark: yellow;
+
+@mixin inset($width) {
+  border: inset;
+  border-width: $width;
+}
+
+@mixin unselectable {
+  cursor: default;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
 
 .game {
   border-width: $border-thick;
@@ -18,18 +29,10 @@ $accent-dark: yellow;
   background-color: $primary;
   padding: 1em;
   box-sizing: border-box;
-
-  // max-width: 400px;
-  // margin: 0 auto;
-
   display: inline-block;
 
-  & > div {
-    border: inset;
-    padding: .5em;
-  }
-
   .header {
+    @include inset($border-thickness);
     margin-bottom: 1em;
     display: flex;
     flex-direction: row;
@@ -62,8 +65,6 @@ $accent-dark: yellow;
   padding: 0;
   font-size: 0;
   font-family: monospace;
-  border-style: inset;
-  border-width: 2px;
 
   .digit {
     font-size: 24pt;
@@ -81,21 +82,10 @@ $accent-dark: yellow;
 }
 
 .grid {
-
-  cursor: default;
+  @include inset($border-thickness);
+  @include unselectable;
 
   padding: 0 !important;
-
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-
-  // &.caution {
-  //   border: 5px solid blue;
-  // }
 
   .row {
     margin: 0;
@@ -126,6 +116,10 @@ $accent-dark: yellow;
     //   border-left: 0;
     //   border-top: 0;
     // }
+
+    &.red {
+      color: red;
+    }
 
     &.unknown {
       border-color: white;

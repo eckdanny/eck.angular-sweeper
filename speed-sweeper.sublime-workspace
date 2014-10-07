@@ -1,1 +1,2177 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rr",
+				"rrevealFn"
+			],
+			[
+				"get",
+				"getNeighbors"
+			],
+			[
+				"getN",
+				"getNeighborsFn"
+			],
+			[
+				"trans",
+				"transcludeFn"
+			],
+			[
+				"rand",
+				"randInt"
+			],
+			[
+				"config",
+				"configObject"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"attach",
+				"attachedBundleCartItems"
+			],
+			[
+				"A",
+				"AbstractCartItem"
+			],
+			[
+				"has",
+				"hasArrivalMethod"
+			],
+			[
+				"produ",
+				"productOptionHttp"
+			],
+			[
+				"and",
+				"andReturn"
+			],
+			[
+				"http",
+				"http_"
+			],
+			[
+				"productOp",
+				"productOptionHttp"
+			],
+			[
+				"_product",
+				"_productOptionHttp_"
+			],
+			[
+				"toHave",
+				"toHaveBeenCalled"
+			],
+			[
+				"exp",
+				"expect"
+			],
+			[
+				"toHaveB",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"Selec",
+				"SelectStoresCtrl"
+			],
+			[
+				"Sele",
+				"SelectStoresCtrl"
+			],
+			[
+				"addre",
+				"addressCollection"
+			],
+			[
+				"pag",
+				"paginator"
+			],
+			[
+				"init",
+				"initial"
+			],
+			[
+				"ini",
+				"initData"
+			],
+			[
+				"bundle",
+				"bundleCartItems"
+			],
+			[
+				"ty",
+				"type	@type"
+			],
+			[
+				"fi",
+				"fileOverview	@fileOverview"
+			],
+			[
+				"nam",
+				"namespace	@namespace"
+			],
+			[
+				"me",
+				"memberOf	@memberOf"
+			],
+			[
+				"bun",
+				"bundle"
+			],
+			[
+				"re",
+				"requires	@requires"
+			],
+			[
+				"proto",
+				"proto	Prototype"
+			],
+			[
+				"prot",
+				"proto	Prototype"
+			],
+			[
+				"remo",
+				"removing"
+			],
+			[
+				"root",
+				"rootScope"
+			],
+			[
+				"rootS",
+				"rootScope"
+			],
+			[
+				"cartIte",
+				"cartItems"
+			],
+			[
+				"property",
+				"propertyIsEnumerable"
+			],
+			[
+				"toHaveBee",
+				"toHaveBeenCalled"
+			],
+			[
+				"toH",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"httpBa",
+				"httpBackend"
+			],
+			[
+				"_car",
+				"_cartItemSalMixIn_"
+			],
+			[
+				"carti",
+				"cartItemSalMixIn"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"getH",
+				"getHttpConfigObject"
+			],
+			[
+				"Abst",
+				"AbstractCartItem"
+			],
+			[
+				"car",
+				"cartItemSalMixIn"
+			],
+			[
+				"Abs",
+				"AbstractCartItem"
+			],
+			[
+				"it",
+				"its	BDD it synchronous"
+			],
+			[
+				"removeBundl",
+				"removeBundleSync"
+			],
+			[
+				"removeS",
+				"removeSingleSync"
+			],
+			[
+				"as",
+				"asdf"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"up",
+				"updateAndContinue"
+			],
+			[
+				"contin",
+				"continueFlow"
+			],
+			[
+				"flow",
+				"flowManager"
+			],
+			[
+				"payp",
+				"paypalURL"
+			],
+			[
+				"usem",
+				"useminCSSOverrides"
+			],
+			[
+				"ModalInst",
+				"modalInstanceCtrl"
+			],
+			[
+				"modalI",
+				"modalInstanceCtrl"
+			],
+			[
+				"cit",
+				"cityStateZipValidator"
+			],
+			[
+				"befro",
+				"beforeEach"
+			],
+			[
+				"ours",
+				"ours2theirs"
+			],
+			[
+				"stat",
+				"staticMappings"
+			],
+			[
+				"thei",
+				"theirs2ours"
+			],
+			[
+				"the",
+				"theirs2ours"
+			],
+			[
+				"con",
+				"con	console.log"
+			],
+			[
+				"ShippingAdd",
+				"ShippingAddressCreateCtrl"
+			],
+			[
+				"Shipin",
+				"ShippingAddressCreateCtrl"
+			],
+			[
+				"l",
+				"location_"
+			],
+			[
+				"cartI",
+				"cartItemCollection"
+			],
+			[
+				"sel",
+				"selectedIndex"
+			],
+			[
+				"sugg",
+				"suggestions"
+			],
+			[
+				"sugge",
+				"suggestion"
+			],
+			[
+				"state",
+				"stateProv"
+			],
+			[
+				"index",
+				"indexOfPending"
+			],
+			[
+				"pendi",
+				"pendingIndex"
+			],
+			[
+				"cover",
+				"coverage-html"
+			],
+			[
+				"ful",
+				"fufillmentType"
+			],
+			[
+				"__REG",
+				"__REGUSER_UNAME__"
+			],
+			[
+				"__",
+				"__REGUSER_PASSWD__"
+			],
+			[
+				"templa",
+				"template"
+			],
+			[
+				"mobil",
+				"mobileapi11"
+			],
+			[
+				"webser",
+				"webserviceProvider"
+			],
+			[
+				"webs",
+				"webserviceProvider"
+			],
+			[
+				"client",
+				"client"
+			],
+			[
+				"callba",
+				"callbackUrl"
+			],
+			[
+				"clientConf",
+				"clientConfig"
+			],
+			[
+				"clientCon",
+				"clientConig"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"roo",
+				"rootScope_"
+			],
+			[
+				"_cli",
+				"_client_"
+			],
+			[
+				"clien",
+				"clientRegistryProvider"
+			],
+			[
+				"clientR",
+				"clientRegistryProvider"
+			],
+			[
+				"cli",
+				"clientRegistryProvider"
+			],
+			[
+				"sessio",
+				"sessionProvider"
+			],
+			[
+				"clientConfi",
+				"clientConfigObject"
+			],
+			[
+				"callB",
+				"callbacksScript"
+			],
+			[
+				"call",
+				"callbacksScript"
+			],
+			[
+				"Singl",
+				"SingleCartItem"
+			],
+			[
+				"bundleI",
+				"bundleItemId"
+			],
+			[
+				"Bu",
+				"BundleCartItem"
+			],
+			[
+				"bund",
+				"bundleCartItems"
+			],
+			[
+				"set",
+				"setQty"
+			],
+			[
+				"bundleitem",
+				"bundleitems"
+			],
+			[
+				"bundleCar",
+				"bundleCartItem"
+			],
+			[
+				"ab",
+				"abstractCartItem"
+			],
+			[
+				"singl",
+				"singleCartItem"
+			],
+			[
+				"sing",
+				"singleCartItem"
+			],
+			[
+				"publi",
+				"publish"
+			],
+			[
+				"cartItem",
+				"cartItemCollection"
+			],
+			[
+				"fulfill",
+				"fulfillmentStoreNumber"
+			],
+			[
+				"pendin",
+				"pendingRemove"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"toHaveBe",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"profi",
+				"profile"
+			],
+			[
+				"Que",
+				"QueueProxy"
+			],
+			[
+				"Frac",
+				"FracMath"
+			],
+			[
+				"M",
+				"FracMath"
+			],
+			[
+				"Fra",
+				"FracMath"
+			],
+			[
+				"ind",
+				"index2"
+			],
+			[
+				"coun",
+				"countRepeats"
+			],
+			[
+				"size",
+				"size2price"
+			],
+			[
+				"Sugar",
+				"SugarDecorator"
+			],
+			[
+				"Cream",
+				"CreamDecorator"
+			],
+			[
+				"proo",
+				"prototype"
+			],
+			[
+				"Suga",
+				"SugarDecorator"
+			],
+			[
+				"Sug",
+				"SugarDecorator"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2370,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/minesweeper.js",
+			"settings":
+			{
+				"buffer_size": 4583,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/game.js",
+			"settings":
+			{
+				"buffer_size": 8417,
+				"line_ending": "Unix",
+				"name": "game.js"
+			}
+		},
+		{
+			"file": "test/spec/minesweeper-spec.js",
+			"settings":
+			{
+				"buffer_size": 4949,
+				"line_ending": "Unix",
+				"name": "minesweeper-spec.js"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"packages ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"htmlprett",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pretiffy",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pretif",
+				"HTMLPrettify"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"mard",
+				"Set Syntax: Markdown"
+			],
+			[
+				"multi",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"preti",
+				"HTMLPrettify"
+			],
+			[
+				"pretify",
+				"HTMLPrettify"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"sublimelinter user",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublimeLinter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packageresou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packge resouce",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prakcage",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle Linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"Sublim",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"lint view",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"Lint view",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"preferences sublime",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"JSHint",
+				"JSHint: Set Keyboard Shortcuts"
+			],
+			[
+				"JS",
+				"JSHint"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"jshin",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"node",
+				"JSHint: Set `node` Path"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"DISA",
+				"Package Control: Disable Package"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"prefernces",
+				"Preferences: Settings - User"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"testrunner",
+				"Test Runner: Run tests"
+			],
+			[
+				"test",
+				"Test Runner: Show output panel"
+			],
+			[
+				"prefers",
+				"Preferences: Settings - User"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"shell",
+				"Set Syntax: Literate Haskell"
+			],
+			[
+				"iief",
+				"Snippet: Immediately-invoked function expression"
+			],
+			[
+				"snippet for",
+				"Snippet: for (…) {…}"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"snippet: ",
+				"Snippet: Object Method"
+			],
+			[
+				"snippet module",
+				"Snippet: module"
+			],
+			[
+				"snippe	strict",
+				"Snippet: use strict"
+			],
+			[
+				"Nodejs::de",
+				"Nodejs::Default File Settings"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"angua",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"angul",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"angular",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"Create",
+				"Create Xiki Buffer"
+			],
+			[
+				"create ",
+				"Create Xiki Buffer"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"binding",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"node settings",
+				"Nodejs::Default File Settings"
+			],
+			[
+				"node ",
+				"Nodejs::User File Settings"
+			],
+			[
+				"R",
+				"Set Syntax: R"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"jasm",
+				"Set Syntax: Jasmine"
+			],
+			[
+				"jasmin",
+				"Set Syntax: Jasmine"
+			],
+			[
+				"jquery",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"jscri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"package remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"javas ",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"jslit",
+				"Preferences: JSLint Settings – User"
+			],
+			[
+				"jsli",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"JSLIT",
+				"JSLint: Run JSLint"
+			],
+			[
+				"jslin",
+				"JSLint: Run JSLint"
+			],
+			[
+				"jslint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"javado",
+				"Set Syntax: JavaDoc"
+			],
+			[
+				"live",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"LiveReload: Help"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live re",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 258.0,
+		"history":
+		[
+			"view.run_command('example')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/deck0/Documents/workspace/speed-sweeper",
+		"/Users/deck0/Documents/workspace/speed-sweeper/app",
+		"/Users/deck0/Documents/workspace/speed-sweeper/app/scripts",
+		"/Users/deck0/Documents/workspace/speed-sweeper/bower_components/angular"
+	],
+	"file_history":
+	[
+		"/Users/deck0/Documents/workspace/speed-sweeper/app/scripts/game.js",
+		"/Users/deck0/Documents/workspace/speed-sweeper/speed-sweeper.sublime-project",
+		"/Users/deck0/Documents/workspace/speed-sweeper/bower_components/angular/angular.js",
+		"/Users/deck0/Documents/workspace/speed-sweeper/karma.conf.js",
+		"/Users/deck0/Documents/workspace/speed-sweeper/package.json",
+		"/Users/deck0/Documents/workspace/speed-sweeper/test/spec/game-spec.js",
+		"/Users/deck0/Documents/workspace/speed-sweeper/test/spec/grid-spec.js",
+		"/Users/deck0/Documents/workspace/speed-sweeper/app/scripts/app.js",
+		"/Users/deck0/Documents/workspace/speed-sweeper/app/styles/grid/grid.scss",
+		"/Users/deck0/Documents/workspace/speed-sweeper/app/scripts/grid.js",
+		"/Users/deck0/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/deck0/Documents/workspace/speed-sweeper/app/styles/main.scss",
+		"/Users/deck0/Documents/workspace/speed-sweeper/Gruntfile.js",
+		"/Users/deck0/Documents/workspace/speed-sweeper/dist/scripts/scripts.67d619a3.js",
+		"/Users/deck0/Documents/workspace/speed-sweeper/bower.json",
+		"/Users/deck0/Documents/workspace/speed-sweeper/.jshintrc",
+		"/Users/deck0/Documents/workspace/speed-sweeper/node_modules/grunt-contrib-connect/node_modules/connect/lib/public/style.css",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart/cart.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart-items/templates/cart-item-attached.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart-items/templates/cart-item-single.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart/cart-view.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart-items/components/quantity.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart-item~/cart-item.js~",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/app.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/index.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart-items/cart-items.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart/cart-summary.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.common/common-select-on-focus.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.common/common-telephone.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.common/common.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.client/client.js",
+		"/Users/deck0/Library/Application Support/Sublime Text 3/Packages/HTML/HTML.tmLanguage",
+		"/Users/deck0/Documents/workspace/wlcc-sal/package.json",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/api/product-option-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.cartItem/cartItem.js",
+		"/Users/deck0/Desktop/bundled",
+		"/Users/deck0/Desktop/resume.txt",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.init-data/init-data.js",
+		"/Users/deck0/Desktop/single",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/e2e/page-helpers/po-payment-page.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.shipping/shipping.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.shipping/shipping.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.spu/spu.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.promo/promo-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.spu/spu-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.cart/cart.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test-iface/test.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.user/user.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.delivery-fulfillment/delivery-fulfillment.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.installation-date-fulfillment/installation-date-fulfillment.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.route/route.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.review/review-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.user/user.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/api/modules/cart.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.shipping-fulfillment/shipping-fulfillment.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/api/modules/session.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test-iface/test.css",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.giftCard/giftCard.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/coverage-html/map.cart/cart.js.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/api/modules/users.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.review/review.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.installation-date-fulfillment/installation-date-fulfillment.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.installation-fulfillment/installation-fulfillment.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.delivery-fulfillment/delivery-fulfillment.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/Gruntfile.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/karma.conf.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.product-option/product-option-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.billing/billing.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.billing/billing.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.flow-manager/flow-manager-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart-item/bundle-item.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/styles/_base.scss",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.client/client-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/api/api-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.analytics/s_code.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.address/tapahead.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart-item/cart-item-review-pg.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.credit-card/sears-credit-card.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart-item/cart-item.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.promo-code/promo-section.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.splash-screen/load-cart-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.session/session-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.sal/sal.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.route/route-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.product-option/product-option-controllers.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.address/address.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.address-collection/address-collection.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.billing/billing.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.common/common-auto-focus-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.common/common-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.common/common-uppercase-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.confirmation/confirmation.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.credit-card/credit-card.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.delivery-fulfillment/delivery-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.express/express.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.header/header-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.installation-fulfillment/installation-fulfillment-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.login/login-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.payment-method/payment.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/map.product-option-installation/product-option-installation-spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/spec/cart-items.spec.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/complexity/assets/scripts/vendor/codemirror/util/continuecomment.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.product-option/product-option-0.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.shipping-fulfillment/shipping-fulfillment.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.flow-manager/flow-manager.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart-items/templates/cart-item-bundle.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.credit-card/credit-card.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart/continue-checkout-btn.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/e2e/scenarios/shipping-page-flow.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test/api/modules/product-option.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.product-option/product-option-directives.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/wlcc-sal.sublime-project",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.product-option/product-option.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/styles/main.scss",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.templates-wlcc/map.templates-wlcc.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.credit-card/credit-card.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.shipping/create.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart-item~/cart-item-review-pg.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.cart-item/cart-item-cart-pg.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.product-option-installation/installation-directives.js",
+		"/Users/deck0/Documents/workspace/wlcc-sal/coverage-html/map.product-option/product-option-services.js.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/coverage-html/map.product-option/product-option-directives.js.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/coverage-html/map.product-option/product-option-controllers.js.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/coverage-html/map.product-option/product-option-0.js.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/scripts/map.installation-fulfillment/installation-item-details.html",
+		"/Users/deck0/Documents/workspace/wlcc-sal/test-results.xml",
+		"/Users/deck0/Documents/workspace/wlcc-sal/app/robots.txt",
+		"/Users/deck0/Documents/workspace/wlcc-sal/complexity/assets/scripts/vendor/codemirror/util/runmode-standalone.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/deck0/Documents/workspace/rtib/app",
+			"/Users/deck0/Documents/workspace/tryOn_v2",
+			"/Users/deck0/Documents/workspace/myTryOn/app/styles",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"grid",
+			"getNeighbors",
+			"neigh",
+			"myBoard",
+			"config",
+			"field",
+			"generate",
+			"directive definition Object",
+			"ngRepeat",
+			"ngrepeatdirective",
+			"randInt",
+			"emptyBoard",
+			"Cell",
+			"replace",
+			"maxlength",
+			"scope.time",
+			"$interval",
+			"$scope",
+			"rows",
+			"thick",
+			"accent-light",
+			"border-thin",
+			"chamfer",
+			"border-width",
+			");\n",
+			"\n",
+			"     ",
+			"    ",
+			"<!--",
+			"windo",
+			"int",
+			"val",
+			"index",
+			"scope.$index",
+			"getNeighbors",
+			"draggable",
+			"MouseUp",
+			"mouseup",
+			"serve",
+			"22",
+			"1",
+			"/images/",
+			"images",
+			"}",
+			"&",
+			"165",
+			"189",
+			"122",
+			"clicking",
+			" ",
+			"item",
+			"226",
+			"          <div class=\"row\">\n            <div class=\"cell unknown\">?</div>\n            <div class=\"cell unknown\">?</div>\n            <div class=\"cell unknown\">?</div>\n            <div class=\"cell unknown\">?</div>\n            <div class=\"cell unknown\">?</div>\n            <div class=\"cell unknown\">?</div>\n            <div class=\"cell unknown\">?</div>\n            <div class=\"cell unknown\">?</div>\n            <div class=\"cell unknown\">?</div>\n            <div class=\"cell unknown\">?</div>\n            <div class=\"cell unknown\">?</div>\n            <div class=\"cell unknown\">?</div>\n          </div>",
+			"console",
+			"i",
+			"placeBombs",
+			"getRandomInt",
+			"board",
+			"this",
+			"board",
+			"getRandomInt",
+			"create",
+			"M",
+			"Integer",
+			" = 0",
+			"a",
+			"count",
+			"container",
+			"quantity",
+			"integer",
+			");\n",
+			"mapItemQuantityCtrl",
+			":",
+			"remove",
+			"itemQuantityForm",
+			"toIntegerString",
+			"$scope.ngModel",
+			"form",
+			"quantityForm",
+			"Objective",
+			"form",
+			"Delete Itme",
+			"quantityForm",
+			"editItem",
+			"enumerable",
+			"item.",
+			"Item.",
+			"item.",
+			"Item.",
+			"item.",
+			"Item.",
+			"item.",
+			"Item.",
+			"item.",
+			"Item.",
+			"item.",
+			"id",
+			"Id",
+			"id",
+			"Id",
+			"id",
+			"Id",
+			"id",
+			"Id",
+			"id",
+			"Id",
+			"id",
+			"^\\s{2}\"([^\"]*)\"",
+			"modal",
+			"profile",
+			"addressAdapter",
+			"addressCollection",
+			"location",
+			"timeout",
+			"\"",
+			"'",
+			"\"",
+			"[",
+			"\n        \"",
+			"\"",
+			",",
+			"session",
+			"Session",
+			"session",
+			"cartItemCollection",
+			"cartItems",
+			"cartItemCollection",
+			"cartItemColle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"();.",
+			"$1: ",
+			"$1$2: $3",
+			"$1'$2': $3",
+			"$1",
+			"$1\\n",
+			"'$1'",
+			"\"$1\"",
+			"'$1'",
+			"'%1'",
+			"039307951968",
+			"tryon",
+			"Blue\n  var pdp = new PDP()\n    , upc = getParameterByN",
+			"\"%1\"\n  var pdp = new PDP()\n    , upc = getParameterByN",
+			"\"\\1\"\n  var pdp = new PDP()\n    , upc = getParameterByN",
+			"describe('PDP Request', function() {\n\n  var pdp = new PDP()\n    , upc = getParameterByN",
+			"",
+			"<p>\\1</p>",
+			"if (",
+			"function (",
+			",\"\\1\"",
+			"\\1\"\\2\",\\n",
+			"",
+			"\"\\1\",",
+			"(\\1)",
+			"(%1)",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								776,
+								776
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "html",
+							"buffer_scroll_name": "20e1976f",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/scripts/minesweeper.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2570,
+								2570
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "2dbe6876",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2129.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "app/scripts/controllers/game.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8417,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										4438,
+										4438
+									],
+									[
+										4623,
+										4623
+									],
+									[
+										5053,
+										5053
+									],
+									[
+										7392,
+										7392
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								2711,
+								2711
+							]
+						],
+						"settings":
+						{
+							"auto_name": "game.js",
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "73cbe482",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1638.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test/spec/minesweeper-spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4949,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3205,
+								3205
+							]
+						],
+						"settings":
+						{
+							"auto_name": "minesweeper-spec.js",
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "0325ea79",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1510.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "speed-sweeper.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"project",
+				"speed-sweeper.sublime-project"
+			],
+			[
+				"karma",
+				"karma.conf.js"
+			],
+			[
+				"grid",
+				"app/styles/grid/grid.scss"
+			],
+			[
+				"stye",
+				"app/styles/main.scss"
+			],
+			[
+				"app.js",
+				"app/scripts/app.js"
+			],
+			[
+				"packge",
+				"package.json"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"jshi",
+				".jshintrc"
+			],
+			[
+				"jshin",
+				".jshintrc"
+			],
+			[
+				"game-spe",
+				"test/spec/game-spec.js"
+			],
+			[
+				"kar",
+				"karma.conf.js"
+			],
+			[
+				"cartitems",
+				"app/scripts/map.cart-items/cart-items.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"client",
+				"app/scripts/map.client/client.js"
+			],
+			[
+				"ind",
+				"app/index.html"
+			],
+			[
+				"cart-item-single",
+				"app/scripts/map.cart-items/templates/cart-item-single.html"
+			],
+			[
+				"initdat",
+				"app/scripts/map.init-data/init-data.js"
+			],
+			[
+				"shipping.js",
+				"app/scripts/map.shipping/shipping.js"
+			],
+			[
+				"testmapshipping",
+				"test/spec/map.shipping/shipping.js"
+			],
+			[
+				"testshipping.js",
+				"test/spec/map.shipping/shipping.js"
+			],
+			[
+				"testcart.js",
+				"test/spec/map.cart/cart.js"
+			],
+			[
+				"testuser.js",
+				"test/spec/map.user/user.js"
+			],
+			[
+				"user.j",
+				"app/scripts/map.user/user.js"
+			],
+			[
+				"spu-spec.js",
+				"test/spec/map.spu/spu-spec.js"
+			],
+			[
+				"review-spec",
+				"test/spec/map.review/review-spec.js"
+			],
+			[
+				"route.js",
+				"app/scripts/map.route/route.js"
+			],
+			[
+				"installation-date-ful",
+				"app/scripts/map.installation-date-fulfillment/installation-date-fulfillment.js"
+			],
+			[
+				"delivery-fulfill",
+				"app/scripts/map.delivery-fulfillment/delivery-fulfillment.js"
+			],
+			[
+				"spu",
+				"app/scripts/map.spu/spu.js"
+			],
+			[
+				"spu-spe",
+				"test/spec/map.spu/spu-spec.js"
+			],
+			[
+				"specproduc",
+				"test/spec/map.product-option/product-option-spec.js"
+			],
+			[
+				"billing.js",
+				"app/scripts/map.billing/billing.js"
+			],
+			[
+				"appbilling",
+				"app/scripts/map.billing/billing.html"
+			],
+			[
+				"specspu.js",
+				"test/spec/map.spu/spu-spec.js"
+			],
+			[
+				"cartitemspec",
+				"test/spec/cart-items.spec.js"
+			],
+			[
+				"specflow",
+				"test/spec/map.flow-manager/flow-manager-spec.js"
+			],
+			[
+				"specproductop",
+				"test/spec/map.product-option/product-option-spec.js"
+			],
+			[
+				"product",
+				"test/api/product-option-spec.js"
+			],
+			[
+				"route.",
+				"app/scripts/map.route/route.js"
+			],
+			[
+				"cart-item-sing",
+				"app/scripts/map.cart-items/templates/cart-item-single.html"
+			],
+			[
+				"flow",
+				"app/scripts/map.flow-manager/flow-manager.js"
+			],
+			[
+				"shipping-ful",
+				"app/scripts/map.shipping-fulfillment/shipping-fulfillment.js"
+			],
+			[
+				"installation-ful",
+				"app/scripts/map.installation-fulfillment/installation-fulfillment.js"
+			],
+			[
+				"delivery-ful",
+				"app/scripts/map.delivery-fulfillment/delivery-fulfillment.js"
+			],
+			[
+				"cart.js",
+				"app/scripts/map.cart/cart.js"
+			],
+			[
+				"index.ht",
+				"app/index.html"
+			],
+			[
+				"credit-card.js",
+				"app/scripts/map.credit-card/credit-card.js"
+			],
+			[
+				"cart-item-s",
+				"app/scripts/map.cart-items/templates/cart-item-single.html"
+			],
+			[
+				"installation-date-f",
+				"app/scripts/map.installation-date-fulfillment/installation-date-fulfillment.js"
+			],
+			[
+				"map.product-option",
+				"app/scripts/map.product-option/product-option-0.js"
+			],
+			[
+				"map.shipping",
+				"app/scripts/map.shipping/shipping.js"
+			],
+			[
+				"index.",
+				"app/index.html"
+			],
+			[
+				"cart-items",
+				"app/scripts/map.cart-items/cart-items.js"
+			],
+			[
+				"cart-it",
+				"app/scripts/map.cart-item/cart-item.js"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"testspecaddress",
+				"test/spec/map.address/address.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"cart.",
+				"app/scripts/map.cart/cart.js"
+			],
+			[
+				"testmap.cart",
+				"test/spec/map.cart/cart.js"
+			],
+			[
+				"testproduc",
+				"test/spec/map.product-option/product-option-spec.js"
+			],
+			[
+				"testflow",
+				"test/spec/map.flow-manager/flow-manager-spec.js"
+			],
+			[
+				"cart-item",
+				"app/scripts/map.cart-item/cart-item.js"
+			],
+			[
+				"initd",
+				"app/scripts/map.init-data/init-data.js"
+			],
+			[
+				"spu.js",
+				"app/scripts/map.spu/spu.js"
+			],
+			[
+				"route",
+				"app/scripts/map.route/route.js"
+			],
+			[
+				"product-option-dire",
+				"app/scripts/map.product-option/product-option-directives.js"
+			],
+			[
+				"cartitem",
+				"app/scripts/map.cart-item/cart-item.js"
+			],
+			[
+				"product-option-controllers",
+				"app/scripts/map.product-option/product-option-controllers.js"
+			],
+			[
+				"speccartit",
+				"test/spec/map.cartItem/cartItem.js"
+			],
+			[
+				"specproduct-option",
+				"test/spec/map.product-option/product-option-spec.js"
+			],
+			[
+				"product-option-spec",
+				"test/api/product-option-spec.js"
+			],
+			[
+				"shipping-fulfillment.js",
+				"app/scripts/map.shipping-fulfillment/shipping-fulfillment.js"
+			],
+			[
+				"review.js",
+				"app/scripts/map.review/review.js"
+			],
+			[
+				"product-option-cont",
+				"app/scripts/map.product-option/product-option-controllers.js"
+			],
+			[
+				"installation-fullfil",
+				"app/scripts/map.installation-fulfillment/installation-fulfillment.js"
+			],
+			[
+				"header",
+				"app/scripts/map.header/header.js"
+			],
+			[
+				"gr",
+				"Gruntfile.js"
+			],
+			[
+				"testaddress-coll",
+				"test/spec/map.address-collection/address-collection.js"
+			],
+			[
+				"testmap.spu",
+				"test/spec/map.spu/spu-spec.js"
+			],
+			[
+				"address-colle",
+				"app/scripts/map.address-collection/address-collection.js"
+			],
+			[
+				"flowm",
+				"app/scripts/map.flow-manager/flow-manager.js"
+			],
+			[
+				"cart",
+				"app/scripts/map.cart/cart.js"
+			],
+			[
+				"store-details.html",
+				"app/scripts/map.spu/store-details.html"
+			],
+			[
+				"select-store",
+				"app/scripts/map.spu/select-stores.html"
+			],
+			[
+				"map.analytics",
+				"app/scripts/map.analytics/analytics.js"
+			],
+			[
+				"index.html",
+				"app/index.html"
+			],
+			[
+				"init",
+				"app/scripts/map.init-data/init-data.js"
+			],
+			[
+				"test",
+				"test-iface/test.js"
+			],
+			[
+				"wlcc-sal",
+				"wlcc-sal.sublime-project"
+			],
+			[
+				"app.s",
+				"node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/offline-apps.json"
+			],
+			[
+				"delivery",
+				"app/scripts/map.delivery-fulfillment/delivery-fulfillment.js"
+			],
+			[
+				"billing",
+				"app/scripts/map.billing/billing.js"
+			],
+			[
+				"testspecsession",
+				"test/spec/map.session/session-spec.js"
+			],
+			[
+				"testsession",
+				"test/api/modules/session.js"
+			],
+			[
+				"testclient",
+				"test/spec/map.client/client-spec.js"
+			],
+			[
+				"testcarti",
+				"test/spec/cart-items.spec.js"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"address.js",
+				"app/scripts/map.address/address.js"
+			],
+			[
+				"syw.js",
+				"app/scripts/map.syw/syw.js"
+			],
+			[
+				"ngroute",
+				"dist/bower_components/angular-route/angular-route.js"
+			],
+			[
+				"angular",
+				"dist/bower_components/angular/angular.js"
+			],
+			[
+				"testcartitems",
+				"test/spec/cart-items.spec.js"
+			],
+			[
+				"cart-items.js",
+				"app/scripts/map.cart-items/cart-items.js"
+			],
+			[
+				"product-option-direc",
+				"app/scripts/map.product-option/product-option-directives.js"
+			],
+			[
+				"user",
+				"app/scripts/map.user/user.js"
+			],
+			[
+				"testuser",
+				"test/spec/map.user/user.js"
+			],
+			[
+				"map.user",
+				"coverage-html/map.user/user.js.html"
+			],
+			[
+				"testproduct-option-spec",
+				"test/spec/map.product-option/product-option-spec.js"
+			],
+			[
+				"shipping",
+				"test/spec/map.shipping/shipping.js"
+			],
+			[
+				"shippingfulfil",
+				"app/scripts/map.shipping-fulfillment/shipping-fulfillment.js"
+			],
+			[
+				"map.shipping-fulfillment",
+				"test/spec/map.shipping-fulfillment/shipping-fulfillment.js"
+			],
+			[
+				"testmap.shi",
+				"test/spec/map.shipping/shipping.js"
+			],
+			[
+				"testshipping-ful",
+				"test/spec/map.shipping-fulfillment/shipping-fulfillment.js"
+			],
+			[
+				"testmap.shippin",
+				"test/spec/map.shipping/shipping.js"
+			],
+			[
+				"shipingful",
+				"app/scripts/map.shipping-fulfillment/shipping-fulfillment.js"
+			],
+			[
+				"shippingful",
+				"app/scripts/map.shipping-fulfillment/shipping-fulfillment.html"
+			],
+			[
+				"productoptiondirect",
+				"app/scripts/map.product-option/product-option-directives.js"
+			],
+			[
+				"product-option-contro",
+				"app/scripts/map.product-option/product-option-controllers.js"
+			],
+			[
+				"testinstallation",
+				"test/spec/map.installation-fulfillment/installation-fulfillment-spec.js"
+			],
+			[
+				"testheader",
+				"test/spec/map.header/header-spec.js"
+			],
+			[
+				"header.js",
+				"app/scripts/map.header/header.js"
+			],
+			[
+				"deliveryful",
+				"app/scripts/map.delivery-fulfillment/delivery-fulfillment.js"
+			],
+			[
+				"cart-item.js",
+				"app/scripts/map.cart-item/cart-item.js"
+			],
+			[
+				"testreview",
+				"test/spec/map.review/review-spec.js"
+			],
+			[
+				"testcart",
+				"test/spec/map.cart/cart.js"
+			],
+			[
+				"cart-item.",
+				"app/scripts/map.cart-item/cart-item.js"
+			],
+			[
+				"cart-view.htm",
+				"app/scripts/map.cart/cart-view.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/workspace/wlcc-sal/wlcc-sal.sublime-project"
+			],
+			[
+				"wlcc",
+				"~/Documents/workspace/wlcc-sal/wlcc-sal.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
